@@ -30,3 +30,6 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 ## Usage
 
 Ideal for AI-themed browser extensions, web applications, or UI designs. Icons are optimized for clarity at various sizes, with Mono’s transparency suited for diverse backgrounds.
+
+## Download
+Get all icon sets (Original, Retro-AI, Mono) in a single ZIP file: [Download AI Extension Icons](https://github.com/5ynthaire/ai-extension-icons/releases/download/v1.0/ai-extension-icons.zip)
